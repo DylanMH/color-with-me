@@ -1,0 +1,6 @@
+// Create the Colyseus Lobby when user clicks Create Lobby instead 
+    after they select an image
+// User is prompted to select an image after they click Create Lobby
+// Once user selects an image they have to click "Select Image"
+    this will set the Colyseus lobby to that image and also direct
+    the user to the drawing canvas
